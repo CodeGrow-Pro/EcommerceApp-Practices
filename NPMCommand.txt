@@ -1,0 +1,2 @@
+nmp init -y ->>>>>>>>>> initialize the projct  using this command 
+npm i/install <name of packeges>@version ->>>>>>>>>>>>> exitely insatll that version of package
